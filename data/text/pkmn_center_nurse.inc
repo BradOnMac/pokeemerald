@@ -1,9 +1,9 @@
 gText_WouldYouLikeToRestYourPkmn::
 	.string "Hello, and welcome to\n"
 	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to rest your POKéMON?$"
+	.string "We are just the healers\n"
+	.string "here.\p"
+	.string "Would you like heal??$"
 
 gText_IllTakeYourPkmn::
 	.string "Okay, I'll take your POKéMON\n"
@@ -26,13 +26,13 @@ gText_WelcomeCutShort::
 
 gText_NoticesGoldCard::
 	.string "Th-that card…\n"
-	.string "Could it be… The GOLD CARD?!\p"
+	.string "What the hell?!\p"
 	.string "Oh, the gold color is brilliant!\n"
 	.string "The four stars seem to sparkle!\p"
-	.string "I've seen several TRAINERS with\n"
-	.string "a SILVER CARD before, but, {PLAYER},\l"
-	.string "you're the first TRAINER I've ever\l"
-	.string "seen with a GOLD CARD!\p"
+	.string "I've seen NO TRAINERS with\n"
+	.string "a SILVER CARD before, let alone, {PLAYER},\l"
+	.string "A DANG\l"
+	.string "GOLD CARD!\p"
 	.string "Okay, {PLAYER}, please allow me\n"
 	.string "the honor of resting your POKéMON!$"
 
